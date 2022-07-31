@@ -43,7 +43,7 @@
       "gender": "Female",
       "color": "Black",
       "size": "Mediem",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSZfcyeEeFj4h8UXJVFiA7MBlSgKUojlIdsQ&usqp=CAU"
+      "imageUrl": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F8c%2Ffe%2F8cfe14f8c2219ed596a86b5a98852ea44403ecb5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
       
       
     },
@@ -58,57 +58,57 @@
     },
     {
       "id": 7,
-      "name": "Blouse",
-      "price": "2500",
+      "name": "Italian Luxury Coat",
+      "price": "250,000",
       "size": "Large",
-      "gender": "Female",
-      "color": "blue",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcCo7hYavK3wuw9RzXXYLnWj2OY2BCMWRyg&usqp=CAU"
+      "gender": "All",
+      "color": "Brown",
+      "image": "https://cdn.shopify.com/s/files/1/0186/1574/products/OU2331024_BR01_1.jpg?v=1631568128"
     },
     {
       "id": 8,
-      "name": "Blouse",
-      "price": "2500",
-      "size": "Large",
+      "name": "Bridal dress",
+      "price": "494,000",
+      "size": "Medium",
       "gender": "Female",
-      "color": "blue",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcCo7hYavK3wuw9RzXXYLnWj2OY2BCMWRyg&usqp=CAU"
+      "color": "Pink",
+      "image": "https://cdn-images.farfetch-contents.com/18/51/89/03/18518903_39994212_300.jpg"
     },
     {
       "id": 9,
-      "name": "Blouse",
-      "price": "2500",
-      "size": "Large",
-      "gender": "Female",
-      "color": "blue",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcCo7hYavK3wuw9RzXXYLnWj2OY2BCMWRyg&usqp=CAU"
+      "name": "Socks",
+      "price": "800",
+      "size": "Medium",
+      "gender": "All",
+      "color": "Multicolor",
+      "image": "https://www.bewooden.com/picture/5d1ce293a3a7c/w960/0-geomess-socks.jpg"
     },
     {
       "id": 10,
-      "name": "Blouse",
-      "price": "2500",
-      "size": "Large",
-      "gender": "Female",
+      "name": "Belt",
+      "price": "5500",
+      "size": "Medium",
+      "gender": "Male",
       "color": "blue",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcCo7hYavK3wuw9RzXXYLnWj2OY2BCMWRyg&usqp=CAU"
+      "image": "https://cdn.shopify.com/s/files/1/0333/4098/1385/products/Reversible_Smooth_Brown-112419_533x.jpg?v=1634542123"
     },
     {
       "id": 11,
-      "name": "Blouse",
-      "price": "2500",
-      "size": "Large",
-      "gender": "Female",
-      "color": "blue",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcCo7hYavK3wuw9RzXXYLnWj2OY2BCMWRyg&usqp=CAU"
+      "name": "Khakis",
+      "price": "Ksh.2500",
+      "size": "Medium",
+      "gender": "Male",
+      "color": "Navy-blue, Cream, Beige,Maroon,  Brown",
+      "image": "https://www.brooktaverner.co.uk/media/catalog/category/lifestyle-category/CatA_Trousers_Lead_600_320.jpg"
     },
     {
       "id": 12,
-      "name": "Blouse",
-      "price": "2500",
+      "name": "Scarf",
+      "price": "500",
       "size": "Large",
-      "gender": "Female",
-      "color": "blue",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcCo7hYavK3wuw9RzXXYLnWj2OY2BCMWRyg&usqp=CAU"
+      "gender": "All",
+      "color": "Brown",
+      "image": "https://media.matinique.com/images/khaki-mawolan-scarf.jpg?i=AHYp40qr2Ag/484773&mw=610"
     }
   ]
 }
